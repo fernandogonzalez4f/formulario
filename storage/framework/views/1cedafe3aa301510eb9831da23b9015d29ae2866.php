@@ -1,0 +1,1 @@
+<h1>Bienvenido amigo</h1><?php /**PATH C:\laragon\www\fGonzalezFernandoAlien\resources\views/dashboard.blade.php ENDPATH**/ ?>
